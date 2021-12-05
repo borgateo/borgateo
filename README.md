@@ -4,6 +4,7 @@
   <img src="https://profile-counter.glitch.me/borteo/count.svg" />
 </p>
 
+<!-- don't centralize it! It has to look like a site that I would have done at 12 ;) --> 
 ![](https://github.com/borteo/borteo/blob/master/marquee.gif)
 
 <p align="center">
