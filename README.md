@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=borgateo&color=006bed)
 
-## 👋 Ciao, I'm <strong>Matt!</strong>
+# 👋 Ciao, I'm <strong>Matt!</strong>
 
 Highly **skilled FE Engineer** with over **16 years of experience** designing and developing **complex web and mobile applications**.
  
@@ -22,19 +22,16 @@ Experienced in creating responsive and accessible user interfaces that provide a
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utils**
+### Utils**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**DevOps**
+### Development Tools
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Development Tools**
-
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
