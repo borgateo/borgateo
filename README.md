@@ -21,6 +21,7 @@ Experienced in creating responsive and accessible user interfaces that provide a
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ### Utils
 
@@ -31,6 +32,7 @@ Experienced in creating responsive and accessible user interfaces that provide a
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![DataDog](https://img.shields.io/badge/-DataDog-333333?style=flat&logo=datadog)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
