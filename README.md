@@ -42,6 +42,6 @@ Experienced in creating responsive and accessible user interfaces that provide a
 
 ## ⭐ GH stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=borgateo&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![card](https://github-readme-stats.vercel.app/api?username=borgateo&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=borgateo&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
