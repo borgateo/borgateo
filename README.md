@@ -2,7 +2,7 @@
 
 # 👋 Ciao, I'm <strong>Matt!</strong>
 
-Highly **skilled FrontEnd Engineer** with over **16 years of experience** designing and developing **complex web and mobile applications**.
+Highly **skilled Software Engineer** with over **16 years of experience** designing and developing **complex web and mobile applications**.
  
 Experienced in creating responsive and accessible user interfaces that provide a seamless user experience across devices. Proficient in utilizing modern development tools to build performant and scalable applications. Passionate about staying up-to-date with the latest industry trends and continuously improving skills to deliver high-quality work.
 
@@ -17,6 +17,7 @@ Experienced in creating responsive and accessible user interfaces that provide a
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Node](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+  ![Go](https://img.shields.io/badge/Go-333333?style=flat&logo=go)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
