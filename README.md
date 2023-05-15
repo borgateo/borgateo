@@ -38,11 +38,3 @@ Experienced in creating responsive and accessible user interfaces that provide a
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
----
-
-## ⭐ GH stats
-
-<!-- [![card](https://github-readme-stats.vercel.app/api?username=borgateo&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=borgateo&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
