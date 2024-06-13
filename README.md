@@ -8,3 +8,5 @@ Experienced in creating responsive and accessible user interfaces that provide a
 
 > [!NOTE]  
 > Excited to collaborate with motivated teams to tackle challenging projects and create innovative solutions.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=borgateo&theme=meta-light)](https://git.io/streak-stats)
