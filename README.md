@@ -9,4 +9,4 @@ Experienced in creating responsive and accessible user interfaces that provide a
 > [!NOTE]  
 > Excited to collaborate with motivated teams to tackle challenging projects and create innovative solutions.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=borgateo&theme=meta-light)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=borgateo&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=gitdimmed&column=4)](https://github.com/ryo-ma/github-profile-trophy)
