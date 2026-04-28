@@ -1,7 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=borgateo&color=006bed)
 
-# 👋 Ciao, I'm <strong>Matteo!</strong>
+# 👋🏼 Hey, I'm <strong>Matteo!</strong>
 
-Highly skilled **Software Engineer specialized in Frontend Development, UX Design, and Product Thinking**, with 19+ years of experience designing and developing complex web and mobile applications, including products used by millions of users worldwide.
+**Senior Frontend Engineer** at DuckDuckGo.
+19 years in. Started as a graphic designer at 16, switched to code, built across full-stack → frontend → mobile.
 
-Experienced in creating responsive and accessible user interfaces that provide a seamless user experience across devices. Proficient in utilizing modern development tools to build performant and scalable applications. Passionate about staying up-to-date with the latest industry trends and continuously improving skills to deliver high-quality work.
+Previously 7 years at InVision (design platform, millions of users), Lead UI at Streamhub, startup years in Amsterdam.
+
+I care about a11y, performance, and design systems.
+I work well with designers — comes from where I started.
+
+Full remote since 2015.
