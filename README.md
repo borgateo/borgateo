@@ -2,8 +2,8 @@
 
 # 👋🏼 Hey, I'm <strong>Matteo!</strong>
 
-**Senior Frontend Engineer** at DuckDuckGo.
-**BSc in Computer Science and Mathematics.**
+**Senior Frontend Engineer** at DuckDuckGo.<br/>
+**BSc in Computer Science**
 
 19 years in. Started as a graphic designer at 16, switched to code, built across full-stack → frontend ←→ mobile.
 
