@@ -12,7 +12,7 @@ Previously 7 years at InVision (design platform, millions of users), Lead UI at 
 
 I care about product, UX, design systems, a11y, and the users we ship for.
 
-I work well with designers and PMs, comes from where I started.
+I bridge design, product and engineering, a habit from where I started.
 
 **Code as a tool, product as outcome.**
 
