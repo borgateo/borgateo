@@ -4,15 +4,13 @@
 
 **Senior Frontend Engineer** at DuckDuckGo.
 
-**BSc in Computer Science**.
-
-19 years in. Started as a graphic designer at 16, switched to code, built across full-stack → frontend ←→ mobile.
+19 years in. Started working as a graphic designer at 16, moved into code after my BSc in Computer Science, and worked across full-stack, frontend and mobile.
 
 Previously 7 years at InVision (design platform, millions of users), Lead UI at Streamhub, startup years in Amsterdam.
 
 I care about product, UX, design systems, a11y, and the users we ship for.
 
-I bridge design, product and engineering, a habit from where I started.
+Coming from design, I speak both languages: I can turn a design into code and push back on it when it hurts the product.
 
 **Code as a tool, product as outcome.**
 
